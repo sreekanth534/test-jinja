@@ -1,2 +1,0 @@
-# test-jinja
-test-jinja
